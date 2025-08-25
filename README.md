@@ -20,6 +20,6 @@ https://github.com/user-attachments/assets/bd1f2625-67b2-45e4-9656-3f35a9448978
 ° HTML e CSS para a interface do usuário
 
 # AUTORES
-
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/
 
 
