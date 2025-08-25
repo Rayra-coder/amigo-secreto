@@ -11,3 +11,15 @@ O jogo "Amigo Secreto" é um site divertido e interativo que permite aos usuári
 - `Funcionalidade 1`: Os usuários podem adicionar nomes de amigos de forma ilimitada 
 - `Funcionalidade 2`: Após clicar no botão "Sortear Amigo", o site sorteia aleatoriamente um amigo secreto 
 - `Funcionalidade 3`: Após o sorteio, o site exibe o resultado na tela, revelando o amigo secreto sorteado
+
+# VÍDEO DEMONSTRATIVO
+https://github.com/user-attachments/assets/bd1f2625-67b2-45e4-9656-3f35a9448978
+
+<h3 align="center"> TECNOLOGIAS ULTILIZADAS </h3>
+° Javascript para a lógica do projeto
+° HTML e CSS para a interface do usuário
+
+# AUTORES
+
+
+
